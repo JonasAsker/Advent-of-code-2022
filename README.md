@@ -5,4 +5,6 @@ This year I'm primarily using C++ and Python. However, I might use a third langu
 Currently I'm solving day 12. 
 #29/12/22
 Solved day 12, onto day 13.
+#16/01/23
+Had my exams the first weeks of january so I took a break from this.
 
